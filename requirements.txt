@@ -1,0 +1,11 @@
+streamlit
+groq
+langgraph
+tavily-python
+python-dotenv
+pandas
+typing-extensions
+
+# Additional dependencies for enhanced security
+requests
+uuid
